@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"jose","classId":1,"equips":[0,0],"faceIndex":0,"faceName":"Jose","traits":[],"initialLevel":1,"maxLevel":99,"name":"José Slime","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"mestre","classId":1,"equips":[0,0],"faceIndex":0,"faceName":"Mestre","traits":[],"initialLevel":50,"maxLevel":99,"name":"Mestre","nickname":"","note":"","profile":""}
+]
